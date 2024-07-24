@@ -1,6 +1,7 @@
 {
-    "recommendations": [
-        "anbuselvanrocky.bootstrap5-vscode",
-        "hossaini.bootstrap-intellisense"
-    ]
+	"recommendations": [
+		"anbuselvanrocky.bootstrap5-vscode",
+		"hossaini.bootstrap-intellisense",
+		"joshua-needham.bootstrap-icons-with-style"
+	]
 }
